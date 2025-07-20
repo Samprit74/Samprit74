@@ -24,13 +24,10 @@ I believe in learning by doing, growing every day, and creating tech that makes 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Samprit74&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
+Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Samprit74&limit=5&theme=moltack&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Samprit74&icon=6&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
