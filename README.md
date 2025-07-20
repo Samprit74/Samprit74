@@ -1,6 +1,15 @@
 # 💫 About Me:
-👋 About Me<br>Hey! I’m Samprit Roy, a 3rd-year B.Tech student in Computer Science and Engineering at Guru Nanak Institute of Technology, MAKAUT, West Bengal.<br><br>I’m a passionate and curious learner who enjoys building meaningful digital experiences. My journey began with programming in C and C++, which sparked my interest in solving logical problems. Over time, I discovered a strong passion for web development, especially working with JavaScript, React, and Python.<br><br>I love turning ideas into fully functional applications and constantly experiment with new tools and technologies. Whether it’s front-end design or back-end logic, I enjoy understanding how things work and finding better ways to build them.<br><br>Alongside development, I dedicate time to improving my problem-solving skills and preparing for technical interviews. I'm especially interested in how systems scale, how clean code is written, and how small projects can grow into real-world solutions.<br><br>When I’m not in front of my laptop, I’m most likely playing football. It’s my favorite way to stay active, clear my mind, and recharge. Fun fact: I often get some of my best coding ideas after a good match — sometimes all it takes is a ball, a field, and a little adrenaline.<br><br>I believe in continuous growth, learning through doing, and collaborating on meaningful projects. For me, tech is not just about code — it’s about creativity, problem-solving, and making an impact, one project at a time.<br><br>Thanks for visiting my profile!
+ About Me
+Hi! I’m Samprit Roy, a 3rd-year B.Tech student in Computer Science and Engineering at Guru Nanak Institute of Technology, MAKAUT.
 
+I’m passionate about web development and love working with technologies like JavaScript, React, and Python. My journey started with C and C++, which built my interest in solving logical problems. Since then, I’ve been learning by building — from frontend interfaces to backend systems.
+
+I spend time improving my problem-solving skills on platforms like LeetCode and enjoy exploring new tools and frameworks. I’m always curious about how things work behind the scenes and believe in writing clean, scalable code.
+
+When I’m not coding, I’m usually playing football, which keeps me focused and energized.
+Fun fact: Some of my best ideas come right after a match and a plate of street food!
+
+I believe in learning by doing, growing every day, and creating tech that makes a difference.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/sampritroy99) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sampritroy99@gmail.com) 
