@@ -3,7 +3,7 @@
 Hi! I’m Samprit Roy, a 3rd-year B.Tech student in Computer Science and Engineering at Guru Nanak Institute of Technology, MAKAUT.
 
 I’m passionate about web development and love working with technologies like JavaScript, React, and Python. My journey started with C and C++, which built my interest in solving logical problems. Since then, I’ve been learning by building — from frontend interfaces to backend systems.I am really interested in Networkings & fundamentals of 
-Storage Management and Operating System.
+Storage Management and Operating System and eager to learn about game development.
 
 I spend time improving my problem-solving skills on platforms like LeetCode and enjoy exploring new tools and frameworks. I’m always curious about how things work behind the scenes and believe in writing clean, scalable code.
 
