@@ -1,5 +1,56 @@
+<div align="center" style="
+  background: linear-gradient(145deg, #0D1117 0%, #161B22 100%);
+  padding: 25px 20px;
+  border-radius: 16px;
+  border-left: 5px solid #6DB33F;
+  border-right: 5px solid #4CAF50;
+  margin: 30px 0;
+  box-shadow: 0 8px 25px rgba(109, 179, 63, 0.2);
+  position: relative;
+  overflow: hidden;
+">
+
+  <div style="
+    position: absolute;
+    inset: 0;
+    background-image: radial-gradient(#4CAF50 1px, transparent 1px);
+    background-size: 20px 20px;
+    opacity: 0.06;
+  "></div>
+
+  <div style="position: relative;">
+
+   <div style="
+      display: inline-block;
+      background: linear-gradient(90deg, #6DB33F, #4CAF50);
+      padding: 6px 18px;
+      border-radius: 25px;
+      margin-bottom: 18px;
+      font-family: monospace;
+      font-size: 14px;
+      color: white;
+      font-weight: 600;
+    ">
+     
+   </div>
+   <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=6DB33F&center=true&vCenter=true&width=900&lines=Hello+folks;Samprit+Roy+here;Java+Spring+Boot+Developer;Learning+RAG+LangChain+MCP"
+      alt="Typing animation"
+    />
+
+   <div style="
+      margin-top: 18px;
+      color: #8A8A8A;
+      font-size: 13px;
+      font-family: monospace;
+   ">
+    • Open for collaborations
+   </div>
+
+  </div>
+</div>
+
 # 💫 About Me:
- About Me
 Hi! I’m Samprit Roy, a 3rd-year B.Tech student in Computer Science and Engineering at Guru Nanak Institute of Technology, MAKAUT.
 
 I’m passionate about web development and love working with technologies like JavaScript, React, and Python. My journey started with C and C++, which built my interest in solving logical problems. Since then, I’ve been learning by building — from frontend interfaces to backend systems.I am really interested in Networkings & fundamentals of 
