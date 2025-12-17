@@ -79,6 +79,24 @@ I believe in learning by doing, growing every day, and creating tech that makes 
 
 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Samprit74&limit=5&theme=moltack&combine_all_yearly_contributions=true)
+<div align="center" style="
+  background: radial-gradient(circle at top, rgba(109,179,63,0.18), transparent 60%);
+  padding: 26px;
+  border-radius: 18px;
+  box-shadow: 
+    0 0 28px rgba(109,179,63,0.3),
+    inset 0 0 14px rgba(76,175,80,0.25);
+  margin: 30px 0;
+">
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Samprit74&theme=react-dark&bg_color=0D1117&color=6DB33F&line=8BC34A&point=FFB300&area=true&area_color=6DB33F55&height=310&curve=natural&stroke=4&point_size=8&hide_border=true&custom_title=PROGRESSIVE+CODING+FLOW"
+    width="800"
+  />
+
+</div>
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Samprit74&icon=6&color=13)](https://visitcount.itsvg.in)
 
