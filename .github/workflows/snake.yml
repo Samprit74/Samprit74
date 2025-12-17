@@ -1,5 +1,4 @@
 name: Generate Custom Snake
-
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -7,7 +6,6 @@ on:
   push:
     branches:
       - main
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -18,10 +16,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Samprit74
-       outputs: |
-                 dist/github-contribution-grid-snake.svg?palette=#0D1117,#1E3A1E,#2E7D32,#4CAF50,#6DB33F&color_snake=FF4500&color_dots=FFD700&radius=10&stroke_width=3
-                 dist/github-contribution-grid-snake-dark.svg?palette=#0D1117,#0F1F0F,#1E3A1E,#2E7D32,#4CAF50&color_snake=FF0000&color_dots=6DB33F&radius=10&stroke_width=3
-          
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=#0D1117,#1E3A1E,#2E7D32,#4CAF50,#6DB33F&color_snake=#FF0000
+            dist/github-contribution-grid-snake-dark.svg?palette=#0D1117,#1A2C1A,#2E7D32,#4CAF50,#6DB33F&color_snake=#FF0000
+         
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
