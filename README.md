@@ -161,35 +161,3 @@ I am really interested in **Networking, Storage Management, Operating Systems**,
     />
   </picture>
 </p>
-
-<details>
-
-
-### **Available Parameters:**
-- `palette`: Color gradient for heatmap (5 colors recommended)
-- `color_snake`: Snake body color (hex code)
-- `color_dots`: Dots/points color
-- `color_axis`: Axis lines color
-- `color_label`: Label text color
-- `color_ticks`: Tick marks color
-- `color_border`: Border color
-- `radius`: Dot radius (5-15)
-- `stroke_width`: Snake stroke width (1-5)
-- `chart_width`: Width in pixels (600-1000)
-- `chart_height`: Height in pixels (200-400)
-- `months`: Number of months to show (1-24)
-- `days`: Number of days to show (365 max)
-
-### **Example Themes:**
-```markdown
-<!-- Green Theme (Your Brand) -->
-?palette=#0D1117,#1E3A1E,#2E7D32,#4CAF50,#6DB33F&color_snake=6DB33F
-
-<!-- Blue Theme -->
-?palette=#0D1117,#0D1B2A,#1B3A4B,#2E5984,#4361EE&color_snake=4361EE
-
-<!-- Purple Theme -->
-?palette=#0D1117,#1A1A2E,#16213E,#0F3460,#8B5CF6&color_snake=8B5CF6
-
-<!-- Orange Theme -->
-?palette=#0D1117,#2D1B00,#5A2C00,#9A4C00,#F97316&color_snake=F97316
