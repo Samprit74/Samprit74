@@ -163,7 +163,7 @@ I am really interested in **Networking, Storage Management, Operating Systems**,
 </p>
 
 <details>
-<summary>🎨 Snake Color Customization Options</summary>
+
 
 ### **Available Parameters:**
 - `palette`: Color gradient for heatmap (5 colors recommended)
