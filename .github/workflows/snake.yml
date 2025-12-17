@@ -3,12 +3,20 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"   # runs daily
-  workflow_dispatch:     # manual run button
+  workflow_dispatch:
+
+permissions:
+  contents: write   # 🔥 REQUIRED to avoid exit code 128
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
+      # ✅ REQUIRED: checkout repo so git push works
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
