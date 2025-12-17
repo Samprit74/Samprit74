@@ -1,4 +1,4 @@
-name: Generate Custom Snake
+name: Generate Dragon Snake
 
 on:
   schedule:
@@ -14,13 +14,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate Custom Snake
+      - name: Generate Dragon Style
         uses: Platane/snk@v3
         with:
           github_user_name: Samprit74
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=#0D1117,#1E3A1E,#2E7D32,#4CAF50,#6DB33F&color_snake=6DB33F
-            dist/github-contribution-grid-snake-dark.svg?palette=#0D1117,#1A2C1A,#2E7D32,#4CAF50,#6DB33F&color_snake=4CAF50
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          # Try different styles
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          # For dragon-like appearance, customize colors heavily
           
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
