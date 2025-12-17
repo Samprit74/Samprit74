@@ -1,33 +1,31 @@
-name: Generate Snake Animation
+name: Generate Custom Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write   # 🔥 REQUIRED to avoid exit code 128
+  push:
+    branches:
+      - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-      # ✅ REQUIRED: checkout repo so git push works
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate snake
+      - name: Generate Custom Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Samprit74
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake animation
+            dist/github-contribution-grid-snake.svg?palette=#0D1117,#1E3A1E,#2E7D32,#4CAF50,#6DB33F&color_snake=6DB33F
+            dist/github-contribution-grid-snake-dark.svg?palette=#0D1117,#1A2C1A,#2E7D32,#4CAF50,#6DB33F&color_snake=4CAF50
+          
+      - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          force_orphan: true
