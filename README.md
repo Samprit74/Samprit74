@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header - Venom Style with Green & Black Theme -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a1a,100:6DB33F&height=200&text=SAMPRIT%20ROY&fontSize=50&fontColor=6DB33F&animation=scaleIn&fontAlignY=50&desc=⚡%20Java%20|%20Spring%20Boot%20|%20Full%20Stack%20⚡&descSize=20&descColor=FFFFFF&descAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a1a,100:6DB33F&height=160&text=SAMPRIT%20ROY&fontSize=50&fontColor=6DB33F&animation=scaleIn&fontAlignY=50&desc=⚡%20Java%20|%20Spring%20Boot%20|%20Full%20Stack%20⚡&descSize=20&descColor=FFFFFF&descAlignY=70" width="100%"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Hello+folks+;I'm+Samprit+Roy;Java+Spring+Boot+Developer;Learning+RAG+%26+LangChain;Open+for+Collaborations!" alt="Typing SVG" />
