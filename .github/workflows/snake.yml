@@ -17,13 +17,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake animation (Dark BG + Red Snake + No Legend)
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: Samprit74
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%23FF0000&hide_colorbar=true
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FF0000&hide_colorbar=true
+            dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=red&hide_colorbar=true
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=red&hide_colorbar=true
 
       - name: Push snake animation to output branch
         uses: peaceiris/actions-gh-pages@v3
