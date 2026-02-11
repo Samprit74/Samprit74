@@ -1,0 +1,47 @@
+name: Dynamic Venom Header
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-header:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Update Header Color
+        run: |
+          COLORS=(
+            "0:000000,100:6DB33F"
+            "0:000000,100:1f6feb"
+            "0:000000,100:a371f7"
+            "0:000000,100:f0883e"
+            "0:000000,100:f85149"
+            "0:000000,100:00ffff"
+            "0:000000,100:ff00ff"
+          )
+
+          INDEX=$(( $(date +%s) % ${#COLORS[@]} ))
+          SELECTED_COLOR=${COLORS[$INDEX]}
+
+          HEADER="<img src=\"https://capsule-render.vercel.app/api?type=venom&height=220&color=${SELECTED_COLOR}&text=SAMPRIT%20ROY&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=⚡%20Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack%20⚡&descSize=22&descColor=FFFFFF&descAlignY=65\" width=\"100%\"/>"
+
+          sed -i "/DYNAMIC_VENOM_HEADER_START/,/DYNAMIC_VENOM_HEADER_END/c\\
+<!-- DYNAMIC_VENOM_HEADER_START -->\\
+${HEADER}\\
+<!-- DYNAMIC_VENOM_HEADER_END -->" README.md
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update dynamic venom header color" || echo "No changes"
+          git push
