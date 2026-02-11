@@ -20,7 +20,7 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> About Me</h2>
 
 ```javascript
 const samprit = {
@@ -40,7 +40,7 @@ Passionate about scalable backend systems • Modern frontend engineering • AI
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> Tech Stack</h2>
 
 <div align="center">
 
@@ -132,7 +132,7 @@ Passionate about scalable backend systems • Modern frontend engineering • AI
 </div>
 
 ---
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> GitHub Analytics</h2>
 
 <div align="center">
 <img height="180em"
@@ -146,7 +146,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Samprit74&hide_borde
 
 
 
-<h2 align="center">💻 Coding Profiles</h2>
+<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> Coding Profiles</h2>
 
 <div align="center">
 <a href="https://leetcode.com/Samprit99/" target="_blank">
@@ -158,22 +158,32 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Samprit74&hide_borde
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> Contribution Snake</h2>
 
 <div align="center">
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" 
   srcset="https://github.com/Samprit74/Samprit74/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
   <source media="(prefers-color-scheme: light)" 
   srcset="https://github.com/Samprit74/Samprit74/blob/output/github-contribution-grid-snake.svg?raw=true">
   <img alt="github contribution grid snake animation" 
   src="https://github.com/Samprit74/Samprit74/blob/output/github-contribution-grid-snake.svg?raw=true" width="100%">
+</picture> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 </div>
 
 ---
 
-<h2 align="center">💡 Random Dev Quote</h2>
+<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif"
+     height="30px"
+     width="30px"
+    style="filter: hue-rotate(100deg) saturate(6) brightness(1.2);">
+ Random Dev Quote</h2>
 
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&quote_bg_color=0D1117&quote_color=6DB33F&author_color=C9D1D9&border_color=6DB33F"/>
@@ -181,7 +191,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Samprit74&hide_borde
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+<h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> Connect With Me</h2>
 
 <div align="center">
 
