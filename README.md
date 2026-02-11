@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- DYNAMIC_VENOM_HEADER_START -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:000000,25:0d1117,50:1a1a1a,75:2d5016,100:6DB33F&text=Samprit%20Roy&fontSize=60&fontColor=6DB33F&animation=fadeIn&fontAlignY=36&desc=%20Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack%20&descSize=21&descColor=F0F6FC&descAlignY=68&stroke=6DB33F&strokeWidth=1" width="100%"/>
-l
+<img src="https://capsule-render.vercel.app/api?type=venom&height=160&color=0:000000,25:0d1117,50:1a1a1a,75:2d5016,100:6DB33F&text=Samprit%20Roy&fontSize=60&fontColor=6DB33F&animation=fadeIn&fontAlignY=3&desc=%20Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack%20&descSize=21&descColor=F0F6FC&descAlignY=68&stroke=6DB33F&strokeWidth=1" width="100%"/>
+
 
 <!-- DYNAMIC_VENOM_HEADER_END -->
 <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=32&pause=1000&color=6DB33F&center=true&vCenter=true&width=750&lines=Hello+folks+;I'm+Samprit+Roy;Java+Spring+Boot+Developer;Learning+RAG+%26+LangChain;Open+for+Collaborations!" />
