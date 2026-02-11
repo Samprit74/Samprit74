@@ -166,11 +166,19 @@ Hi! I'm **Samprit Roy**, passionate about building scalable web applications and
 
 </div> -->
 
-<div align="center" style="overflow: hidden; max-height: 200px;">
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Samprit74/Samprit74/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Samprit74/Samprit74/blob/output/github-contribution-grid-snake.svg?raw=true">
-  <img alt="github contribution grid snake animation" src="https://github.com/Samprit74/Samprit74/blob/output/github-contribution-grid-snake.svg?raw=true">
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github.com/Samprit74/Samprit74/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://github.com/Samprit74/Samprit74/blob/output/github-contribution-grid-snake.svg?raw=true">
+  <img 
+    alt="github contribution grid snake animation" 
+    src="https://github.com/Samprit74/Samprit74/blob/output/github-contribution-grid-snake.svg?raw=true"
+    width="100%">
 </picture>
 
 </div>
