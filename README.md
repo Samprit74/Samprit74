@@ -23,6 +23,7 @@
 <h2 align="center"><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> About Me</h2>
 
 ```javascript
+
 const samprit = {
     education: "B.Tech CSE @ GNIT, MAKAUT",
     year: "4rd Year",
@@ -33,6 +34,8 @@ const samprit = {
     funFact: "Best ideas come after a match and street food!"
 };
 ```
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDBxYTZtNWJoNnluN3NxNGF6eDF3aDl3dnEyNzZxdjB5OXltamJyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tz30dcgKE3GCTYpxol/giphy.gif" height="90px" width="140px">
+
 
 <p align="center">
 Passionate about scalable backend systems • Modern frontend engineering • AI-powered integrations
