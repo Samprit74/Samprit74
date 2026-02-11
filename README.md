@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:000000,20:0a0a0a,40:101820,70:1e3c1f,100:6DB33F&text=SAMPRIT%20ROY&fontSize=60&fontColor=6DB33F&animation=twinkling&fontAlignY=38&desc=⚡%20Java%20Developer%20%7C%20Backend%20Architect%20%7C%20AI%20Explorer%20⚡&descSize=22&descColor=F0F6FC&descAlignY=65" width="100%"/>
+<!-- DYNAMIC_VENOM_HEADER_START -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:6DB33F&text=SAMPRIT%20ROY&fontSize=60&fontColor=6DB33F&animation=fadeIn&fontAlignY=40&desc=⚡%20Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack%20⚡&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<!-- DYNAMIC_VENOM_HEADER_END -->
 
 
 
@@ -22,12 +24,12 @@
 ```javascript
 const samprit = {
     education: "B.Tech CSE @ GNIT, MAKAUT",
-    year: "3rd Year",
+    year: "4rd Year",
     location: "West Bengal, India",
     interests: ["Web Development", "Backend Systems", "AI/ML"],
     currentlyLearning: ["Spring Boot", "RAG", "LangChain", "MCP"],
     futureGoals: ["Game Development", "System Design", "Cloud Architecture"],
-    funFact: "Best ideas come after a match and street food! 🏏🍕"
+    funFact: "Best ideas come after a match and street food!"
 };
 ```
 
@@ -129,18 +131,15 @@ Passionate about scalable backend systems • Modern frontend engineering • AI
 </div>
 
 ---
-
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samprit74&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6DB33F&icon_color=6DB33F&text_color=C9D1D9"/> -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Samprit74&theme=tokyonight&hide_border=true&background=0D1117&stroke=6DB33F&ring=6DB33F"/>
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Samprit74&hide_border=true&background=0D1117&stroke=6DB33F&ring=6DB33F&fire=6DB33F&currStreakNum=6DB33F&sideNums=6DB33F&currStreakLabel=6DB33F&sideLabels=6DB33F&dates=8B949E"/>
 </div>
 
 <div align="center">
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samprit74&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6DB33F&text_color=C9D1D9&langs_count=8"/> -->
-    <img src="https://komarev.com/ghpvc/?username=Samprit74&label=Profile%20Views&color=6DB33F&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=Samprit74&label=Profile%20Views&color=6DB33F&style=for-the-badge"/>
 </div>
 
 
