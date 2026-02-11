@@ -25,7 +25,7 @@
 ```javascript
 
 const samprit = {
-    education: "B.Tech CSE @ GNIT, MAKAUT",
+    education: "B.Tech CSE @GNIT, MAKAUT",
     year: "4rd Year",
     location: "West Bengal, India",
     interests: ["Web Development", "Backend Systems", "AI/ML"],
