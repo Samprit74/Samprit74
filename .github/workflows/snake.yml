@@ -1,13 +1,10 @@
 name: Generate Snake Animation
-
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight UTC
   workflow_dispatch:  # Allows manual trigger
-
 permissions:
   contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -23,7 +20,7 @@ jobs:
           github_user_name: Samprit74
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FF6C37&color_dots=%230d1117,%2314332a,%231f5a3f,%23297048,%236DB33F
       
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
