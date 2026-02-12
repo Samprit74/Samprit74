@@ -28,7 +28,7 @@ const samprit = {
     location: "West Bengal, India",
     interests: ["Web Development", "Backend Systems", "AI/ML"],
     currentlyLearning: ["Spring Boot", "RAG", "LangChain", "MCP"],
-    futureGoals: ["GameDevelopment", "System Design", "Cloud Architecture"],
+    futureGoals: ["Backend Development","Game Development", "System Design", "Cloud Architecture"],
     funFact: "Best ideas come after a match and street food!"
 };
 ```
