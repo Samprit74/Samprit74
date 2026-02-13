@@ -8,8 +8,7 @@
 
 
 <!-- DYNAMIC_VENOM_HEADER_END -->
-<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=32&pause=1000&color=001A66&center=true&vCenter=true&width=750&lines=Hello+folks+;I'm+Samprit+Roy;Java+Spring+Boot+Developer;Learning+RAG+%26+LangChain;Open+for+Collaborations!" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Hello+folks+;I'm+Samprit+Roy;Java+Spring+Boot+Developer;Learning+RAG+%26+LangChain;Open+for+Collaborations!" />
 
 
 <br/>
