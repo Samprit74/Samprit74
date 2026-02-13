@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DYNAMIC_VENOM_HEADER_START -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:000000,20:000D1F,40:001233,60:002266,80:003399,100:0044CC&animation=fadeIn&duration=7000&loop=true&pulse=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=140&color=0:000000,20:000D1F,40:001233,60:002266,80:003399,100:0044CC&animation=fadeIn&duration=7000&loop=true&pulse=true" width="100%"/>
 
 
 
