@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DYNAMIC_VENOM_HEADER_START -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:000000,10:000814,40:001A66,100:0033FF&text=SAMPRIT%20ROY&font=Allura&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=⚡%20Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack%20⚡&descSize=22&descColor=FFFFFF&descAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:000000,10:000814,40:001A66,100:0033FF&text=SAMPRIT%20ROY&font=Allura&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=⚡%20Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack%20⚡&descSize=22&descColor=FFFFFF&descAlignY=70" width="100%"/>
 
 
 
