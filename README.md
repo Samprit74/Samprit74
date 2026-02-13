@@ -1,9 +1,14 @@
 <div align="center">
 
 <!-- DYNAMIC_VENOM_HEADER_START -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:f85149&text=SAMPRIT%20ROY&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=⚡%20Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack%20⚡&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:000000,10:000814,40:001A66,100:0033FF&text=SAMPRIT%20ROY&font=Allura&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45&desc=⚡%20Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack%20⚡&descSize=22&descColor=FFFFFF&descAlignY=70" width="100%"/>
+
+
+
+
+
 <!-- DYNAMIC_VENOM_HEADER_END -->
-<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=32&pause=1000&color=6DB33F&center=true&vCenter=true&width=750&lines=Hello+folks+;I'm+Samprit+Roy;Java+Spring+Boot+Developer;Learning+RAG+%26+LangChain;Open+for+Collaborations!" />
+<img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=32&pause=1000&color=001A66&center=true&vCenter=true&width=750&lines=Hello+folks+;I'm+Samprit+Roy;Java+Spring+Boot+Developer;Learning+RAG+%26+LangChain;Open+for+Collaborations!" />
 
 
 
@@ -137,12 +142,16 @@ Passionate about scalable backend systems • Modern frontend engineering • AI
 
 <div align="center">
 <img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Samprit74&hide_border=true&background=0D1117&stroke=6DB33F&ring=6DB33F&fire=6DB33F&currStreakNum=6DB33F&sideNums=6DB33F&currStreakLabel=6DB33F&sideLabels=6DB33F&dates=8B949E"/>
+src="https://github-readme-streak-stats.herokuapp.com/?user=Samprit74&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=003B44&sideLabels=003B44&dates=003B44"/>
+
+
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Samprit74&label=Profile%20Views&color=6DB33F&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Samprit74&label=Profile%20Views&color=00FFFF&style=for-the-badge"/>
 </div>
+
+
 
 
 
@@ -154,8 +163,11 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Samprit74&hide_borde
 <img src="https://leetcard.jacoblin.cool/Samprit99?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10"/>
 </a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samprit74&theme=github-compact&bg_color=0D1117&color=6DB33F&line=6DB33F&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samprit74&theme=github-compact&bg_color=0D1117&color=00FFFF&line=00FFFF&point=003B44&area=true&hide_border=true"/>
+
+
 </div>
+
 
 ---
 
@@ -207,5 +219,6 @@ Let’s build something impactful together.
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:2d5016,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B44,100:00FFFF&height=120&section=footer" width="100%"/>
+
 </div>
