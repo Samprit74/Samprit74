@@ -1,14 +1,7 @@
 <div align="center">
 
 <!-- DYNAMIC_VENOM_HEADER_START -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=140&color=0:000000,20:000D1F,40:001233,60:002266,80:003399,100:0044CC&animation=fadeIn&duration=7000&loop=true&pulse=true" width="100%"/>
-
-
-
-
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:ff00ff&text=SAMPRIT%20ROY&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=⚡%20Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack%20⚡&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 <!-- DYNAMIC_VENOM_HEADER_END -->
 <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Hello+folks+;I'm+Samprit+Roy;Java+Spring+Boot+Developer;Learning+RAG+%26+LangChain;Open+for+Collaborations!" />
 
