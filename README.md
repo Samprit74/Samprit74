@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DYNAMIC_VENOM_HEADER_START -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:f0883e&text=SAMPRIT%20ROY&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=⚡%20Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack%20⚡&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:f0883e&text=SAMPRIT%20ROY&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=%20Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack%20&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 <!-- DYNAMIC_VENOM_HEADER_END -->
 <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=Hello+folks+;I'm+Samprit+Roy;Java+Spring+Boot+Developer;Learning+RAG+%26+LangChain;Open+for+Collaborations!" />
 
@@ -23,12 +23,12 @@
 
 const samprit = {
     education: "B.Tech CSE @GNIT, MAKAUT",
-    year: "4rd Year",
-    location: "West Bengal, India",
+    year: "graduate",
+    location: "Karnataka, India",
     interests: ["Web Development", "Backend Systems", "AI/ML"],
     currentlyLearning: ["Spring Boot", "RAG", "LangChain", "MCP"],
     futureGoals: ["Backend Development","Game Development", "System Design", "Cloud Architecture"],
-    funFact: "Best ideas come after a match and street food!"
+    
 };
 ```
 <!-- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dDBxYTZtNWJoNnluN3NxNGF6eDF3aDl3dnEyNzZxdjB5OXltamJyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tz30dcgKE3GCTYpxol/giphy.gif" height="90px" width="140px"> -->
